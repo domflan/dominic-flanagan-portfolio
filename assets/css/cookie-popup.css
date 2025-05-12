@@ -1,0 +1,27 @@
+#cookie-popup {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #222;
+    color: #fff;
+    padding: 15px;
+    font-size: 0.9em;
+    text-align: center;
+    z-index: 9999;
+  }
+  
+  #cookie-popup a {
+    color: #00bfff;
+    text-decoration: underline;
+  }
+  
+  #cookie-popup button {
+    margin-left: 15px;
+    padding: 5px 10px;
+    border: none;
+    background: #00bfff;
+    color: white;
+    cursor: pointer;
+  }
+  
